@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+
+}
+
+body {
+	font-size: 50px;
+	text-align: center;
+	background-color: skyblue;
+}
+
+#container {
+	display: flex;
+	justify-content: center;
+}
+
+strong {
+	padding: 20px;
+	font-size: 20px;
+}
+
+#mouse {
+	font-size: 20px;
+}
+
+#description {
+	padding-bottom: 20px;
+	font-size: 20px;
+}
+
+#image {
+	position: relative;
+	width: 50px;
+	height: 50px;
+}
+
+canvas {
+	background-color: black;
+}
+
